@@ -5,6 +5,6 @@
 
 
 
-${name}
+${student}
 
 <img src="<c:url value="/resources/image/${name}" />" alt="img" style="width: 50%;" />

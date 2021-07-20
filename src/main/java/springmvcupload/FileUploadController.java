@@ -23,6 +23,9 @@ public class FileUploadController
 	{
 		System.out.println("helo");
 		
+		String s  = null;
+		System.out.println(s.charAt(0));
+		
 		return "imageupload";
 	}
 	
